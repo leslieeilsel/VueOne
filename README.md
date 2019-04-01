@@ -12,4 +12,4 @@
 
 - Form表单常用校验的封装：https://dev.iviewui.com/articles/1073465710388318208
 
-- https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fcomponents%2Fjson-editor
+- vue-element-admin：https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fcomponents%2Fjson-editor
