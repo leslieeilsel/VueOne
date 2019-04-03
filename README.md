@@ -15,3 +15,5 @@
 - vue-element-admin：https://panjiachen.github.io/vue-element-admin/#/login?redirect=%2Fcomponents%2Fjson-editor
 
 - Vuetify：https://vuetifyjs.com/zh-Hans/getting-started/quick-start
+
+- Bootstrap Vue: https://bootstrap-vue.js.org
