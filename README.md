@@ -8,6 +8,8 @@
 
 - Ant Design Vue: https://vue.ant.design/
 
+- Ant Design Vue Pro: https://github.com/vueComponent/ant-design-vue-pro
+
 - Easy Mock: https://www.easy-mock.com/login
 
 - Form表单常用校验的封装：https://dev.iviewui.com/articles/1073465710388318208
